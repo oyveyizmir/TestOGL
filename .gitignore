@@ -2,6 +2,7 @@ Debug/
 ipc/
 ipch/
 *.aps
+*.opensdf
 *.sdf
 *.suo
 *.user
